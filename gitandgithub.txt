@@ -1,0 +1,24 @@
+Documentation on Git And Github:
+ Git is a software and to be installed in the system where as github is a service
+ can also be used as storage and it can be done on the web.
+we can create a repository and can add or del files in it and we can also create a copy branch in github.
+Github is a GUI.
+
+To get Githubfiles(Remote) to local -----Use gitclone
+
+github--->gitclone--->local
+local---->gitadd----->git command----->git push---->github
+
+
+we have mainly 5 commands:
+gitadd
+git commit
+git push
+gitpull
+git merge
+
+git pull is used to get update
+git clone is used to download
+git commit is used to save
+
+
