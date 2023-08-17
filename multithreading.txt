@@ -1,0 +1,10 @@
+Document on Multithreading:
+     Threading is a light weight process.Threading can be used to solve complicated prblms in background.
+Threads can share the memory.
+we have diff methods in threading:
+1.run--->start point of a thread
+2.start--->method starts by calling run method.
+3.join([time])----->to terminate
+4.is alive()------->checks whether it is present.
+5.getname()--------->returns the name.
+if no threads are present it will be taken as mainthread.
